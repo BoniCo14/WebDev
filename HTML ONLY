@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Boni's</title>
+    <link rel="stylesheet" href="./resume.css">
+</head>
+<style>
+    img 
+    {
+        border-radius: 50%;
+    }
+    .container 
+    {
+        padding: 10px;
+        background-color: #243874;
+        display: flex;
+        align-items: center;
+        justify-content: center
+    }
+
+    .image 
+    {
+        flex-basis: 17%;
+    }
+    .height
+    {
+        line-height: 0.5;
+    }
+    .text 
+    {
+        font-size: 15px;
+        line-height: 0.5;
+            }
+     .p1 {text-align: center;}
+</style>
+
+<body>
+
+    <div class="container">
+
+        <div class="image">
+          <img src="IMG_E3270.JPG" alt="Avatar" style="width:200px"/>
+          <p></p>
+          <p></p>
+        </div>
+            
+        <div class="text">
+                <h1 style="color:white">AILEEN NICOLE SHIMA BONIFACIO</h1>
+                <p style="color:white">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; +81 (090) 5203-4790</p>
+                <p style="color:white">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ansbonifacio2@gmail.com</p>
+                <p style="color:white">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; https://www.linkedin.com/in/nicole-bonifacio-251053261/</p>
+                <p style="color:white">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; https://github.com/BoniCo14</p>
+        </div>
+    </div>
+
+    
+
+    <h2>Objective</h2> 
+    <div class="p1">
+        <p>Hardworking and passionate job seeker with strong organizational skills eager to secure entry-level Computer Network Engineer position where I can enhance, develop and apply my knowledge and skills in software programming and hardware troubleshooting which can contribute a lot to the company’s performance and productivity once I become part with.</p>
+    </div>
+    
+    <br>
+    <hr>
+
+    <h2>Work Experiences</h2>
+    <h3>Assistant Line Leader <em>(2020-2023)</em></h3> 
+    <p>Tsuji Corporation </p>
+    <ul>
+        <li>Handles senior level machine operation</li>
+        <li>Manages and handles line staff and production flow</li>    
+        <li>Applies product label, code and details via machine</li>   
+        <li>Backchecks product output and result</li>  
+        <li>Communicates and reports output or machine issues to higher management</li>    
+        <li>Resolves production issues and problem</li>    
+        <li>Handles assistant team leader responsibility</li>    
+    </ul>
+    <h3>Entrepreneur <em>(2016-2022)</em></h3> 
+    <p><em>Sole Proprietorship</em></p>
+    <ul>
+        <li>Independently owned</li>
+        <li>Handles the sales and auditing</li>    
+        <li>Able to communicate with clients effectively</li>   
+        <li>Self-managed negotiations</li>  
+        <li>Manages in goings and outgoings of product supply</li>    
+        <li>Skilled in organization and management</li>    
+        <li>Documents receipts and status</li>    
+        <li>Multitask Operation</li>
+    </ul>
+    <h3>Internship<em>2018-2019</em></h3> 
+    <p><em>Sole Proprietorship</em></p>
+    <ul>
+        <li>Engineer Assistant</li>
+        <li>Accompanies engineer to site location</li>    
+        <li>Manages and handles document and data</li>   
+        <li>Microsoft office dependent responsibility</li>  
+    </ul>
+    
+    <br>
+    <hr>
+
+    <h2>Accomplished Projects</h2>
+    <ul>
+        <li>AM Radio Construction for Electronic Communications class </li>
+        <li>230 Volts Power Supply Construction for Electronics 1 class</li>    
+        <li>HAMIS v2.0-Helmet Activated Motorcycle Ignition System for Methods of Research class </li>   
+        <li>Microcontroller-Based Flood Level Sensor for Software Engineering class</li>  
+        <li>Microcontroller-Based Walking Stick for System Analysis and Design class </li>    
+        <li>Jack-en-Poy Game for Logic Circuits class </li>    
+        <li>Automated Candle Maker for Computer Engineering Project Design 1 class </li>    
+    </ul>
+
+    <br>
+    <hr>
+
+    <h2>Education</h2>
+    <div class="height">
+        <h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bachelor of Science in Computer Engineering</h3> 
+        <em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;FEU Institute of Technology - Philippines</em> </p>
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;P. Paredes St., Sampaloc, Manila</p>
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2014-2022</p>
+    </div>
+    
+
+    <br>
+    <hr>
+
+    <h2>Software and Hardware Skills</h2>
+    <ul>
+        <li>Dev C, C++, Java & Python</li>
+        <li>CISCO Network/CyberSecurity</li>    
+        <li>Basic Electronics and Communication</li>   
+        <li>Electrical & Electronic Circuits</li>  
+        <li>Computer Hardware Construction and Architechure</li>    
+        <li>MATLAB & Feedback Systems</li>    
+        <li>Logic & Microcontroller Circuits</li>    
+        <li>Microsoft Office</li>   
+    </ul>
+
+    <br>
+    <hr>
+
+    <h2>Certifications</h2>
+    <li>CCNA RS, Introduction to Networks | <em>2018</em></li>    
+    <li>CCNA RS, Scaling Essentials | <em>2020</em></li>   
+    <li>CCNA RS, Connecting Networks | <em>2021</em></li>  
+    <li>Google Foundations, Foundations: Data, Data, Everywhere | <em>2022</em></li>    
+    <li>Google: Ask Questions to Make Data-Driven Decisions | <em>2023</em></li>    
+    <li>Prepare Data for Exploration | <em>2023</em></li>
+
+
+    <br>
+    <hr>
+
+    <h2>Organizations</h2>
+
+    <table style="width:90%">
+        <tr style="height:1px">
+          <td><ul>Programs Committee, FEU-Tech Student Coordinating Council, <em>2018-2019</em></ul></td>
+          <td><ul>Member, Computer Engineering Organization, <em>2014-2021</em></ul></td>
+        </tr>
+        <tr style="height:1px">
+            <td><ul>Officer Trainee, Computer Engineering Organization <em>2018-2019</em></ul></td>
+            <td><ul>Member, Institute of Computer Engineers of the Philippines, <em>2017-2018</em></ul></td>
+          </tr>
+      </table>
+
+    <br>
+    <hr>
+
+    <h2>Language Profeciencies</h2>
+    <ul>
+        <li>English Proficiency-Native Level</li>
+        <li>Japanese Proficiency-Basic Conversational & Written Level, ongoing JLPT5</li>    
+        <li>Filipino Proficiency-Native Level</li>   
+    </ul>
+</body>
+</html>
